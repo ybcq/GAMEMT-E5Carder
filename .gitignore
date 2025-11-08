@@ -1,0 +1,3 @@
+dist/*.exe
+data/retro/swapfile
+build/E5Maker/E5Maker.pkg

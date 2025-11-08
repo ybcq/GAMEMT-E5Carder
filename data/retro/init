@@ -1,0 +1,16 @@
+echo "=======init swap======="
+if [ -f /usr/retro/swapfile ]
+then
+echo "=======run mkswap swapon======="
+mkswap /usr/retro/swapfile
+swapon /usr/retro/swapfile
+fi
+modprobe joydev
+if [ -f /usr/retro/main ];then
+echo "=======run /usr/retro/main======="
+export LD_LIBRARY_PATH="/lib:/usr/lib:/system/lib:/usr/retro/libs"
+/usr/retro/main &
+else
+echo "=======run /system/app/main======"
+/system/app/main &
+fi

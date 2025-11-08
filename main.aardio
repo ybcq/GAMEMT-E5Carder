@@ -1,0 +1,28 @@
+import win.ui;
+/*DSG{{*/
+mainForm = win.form(text="掌机配置文件转换器";right=799;bottom=499)
+mainForm.add(
+EmuelecLoad={cls="button";text="...";left=348;top=28;right=370;bottom=50;z=11};
+EmuelecPath={cls="edit";left=10;top=28;right=341;bottom=50;edge=1;multiline=1;z=3};
+EmuelecText={cls="edit";left=10;top=59;right=370;bottom=369;edge=1;multiline=1;z=1};
+FolderLoad={cls="button";text="...";left=757;top=459;right=779;bottom=481;z=13};
+FolderPath={cls="edit";left=78;top=459;right=752;bottom=481;edge=1;multiline=1;z=10};
+PegasusLoad={cls="button";text="...";left=769;top=28;right=791;bottom=50;z=12};
+PegasusPath={cls="edit";left=431;top=28;right=762;bottom=50;edge=1;multiline=1;z=6};
+PegasusText={cls="edit";left=431;top=59;right=791;bottom=369;edge=1;multiline=1;z=2};
+RomLoad={cls="button";text="...";left=757;top=430;right=779;bottom=452;z=15};
+RomPath={cls="edit";left=78;top=430;right=752;bottom=452;edge=1;multiline=1;z=14};
+ToLift={cls="button";text='\u2190';left=379;top=238;right=421;bottom=280;z=8};
+ToLift2={cls="button";text='\u2196';left=338;top=392;right=369;bottom=422;z=18};
+ToRight={cls="button";text='\u2192';left=379;top=187;right=421;bottom=229;z=7};
+ToRight2={cls="button";text='\u2197';left=431;top=392;right=462;bottom=422;z=19};
+groupbox={cls="groupbox";text="基于文件夹自动生成";left=10;top=376;right=788;bottom=491;edge=1;z=9};
+static={cls="static";text="Emuelec";left=10;top=5;right=370;bottom=23;transparent=1;z=4};
+static2={cls="static";text="ROM路径";left=18;top=433;right=73;bottom=454;transparent=1;z=16};
+static3={cls="static";text="素材路径";left=18;top=462;right=73;bottom=483;transparent=1;z=17};
+static4={cls="static";text="Pegasus";left=431;top=5;right=791;bottom=23;transparent=1;z=5}
+)
+/*}}*/
+
+mainForm.show();
+return win.loopMessage();

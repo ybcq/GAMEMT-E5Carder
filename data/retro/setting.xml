@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> <autorun file="" driver="" /> <autorestore>01</autorestore>
+<defaultlanguage>2</defaultlanguage> <config language="1" volume="2"
+brightness="3" /> <ui name="繁體中文" filename="ui_tw.bkp"
+gamelist="1" /> <ui name="简体中文" filename="ui_cn.bkp" gamelist="1" />
+<ui name="English" filename="ui_en.bkp" gamelist="0" /> <ui
+name="סיברית" filename="ui_he.bkp" gamelist="0" /> <ui
+name="Español" filename="ui_es.bkp" gamelist="0" /> <ui
+name="Protuguês" filename="ui_pt.bkp" gamelist="0" /> <ui
+name="Français" filename="ui_fr.bkp" gamelist="0" /> <ui name="Deutsch"
+filename="ui_de.bkp" gamelist="0" /> <ui name="日本語"
+filename="ui_jp.bkp" gamelist="0" /> <ui name="한국의"
+filename="ui_ko.bkp" gamelist="0" /> <ui name="Indonesia"
+filename="ui_id.bkp" gamelist="0" /> <ui name="Русский"
+filename="ui_ru.bkp" gamelist="0" /> <ui name="     "
+filename="ui_il.bkp" gamelist="0" /> <sound> <bgm file="bgm.mp3" /> <effect0
+file="effect0.wav" /> <effect1 file="effect1.wav" /> </sound>

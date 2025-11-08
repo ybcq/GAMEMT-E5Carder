@@ -1,0 +1,12 @@
+000/denjinmk.zip;denjinmk;DENJINMK;denjinmk;DENJINMK
+001/B 堡垒.md;B 堡垒;DENJINMK;B 堡垒;DENJINMK
+002/A 阿达一族[ADYZ].smc;A 阿达一族[ADYZ];DENJINMK;A 阿达一族[ADYZ];DENJINMK
+003/B 霸王的大陆霸气江山.nes;B 霸王的大陆霸气江山;DENJINMK;B 霸王的大陆霸气江山;DENJINMK
+004/019 C 龙珠大冒险.gba;019 C 龙珠大冒险;DENJINMK;019 C 龙珠大冒险;DENJINMK
+005/A 阿童木方块.gbc;A 阿童木方块;DENJINMK;A 阿童木方块;DENJINMK
+006/A 奥特曼.gb;A 奥特曼;DENJINMK;A 奥特曼;DENJINMK
+007/刀魂[日].PBP;刀魂[日];DENJINMK;刀魂[日];DENJINMK
+008/3wonders.zip;3wonders;DENJINMK;3wonders;DENJINMK
+009/1944.zip;1944;DENJINMK;1944;DENJINMK
+010/oldsplus.zip;oldsplus;DENJINMK;oldsplus;DENJINMK
+011/zupapa.zip;zupapa;DENJINMK;zupapa;DENJINMK

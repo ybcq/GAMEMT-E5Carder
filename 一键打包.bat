@@ -1,0 +1,1 @@
+pyinstaller -Fw --add-data "data:data" -n "E5Maker" main.py
